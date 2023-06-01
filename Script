@@ -310,3 +310,4 @@ game:GetService("Players").LocalPlayer.Character:PivotTo(CFrame.new(118.82363891
  wait()
 
 Root.BodyVelocity:Destroy()
+_G.FPPTP = true
